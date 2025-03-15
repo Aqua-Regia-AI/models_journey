@@ -1,1 +1,3 @@
 # Introduction
+
+In this era of _Large Language Models_ or _LLMs_ having just one simple model may be a good thing, but it is not everything. The reason behind this is that most of proprietary and open source companies are now releasing _families of models_ instead of one single model. And the Chinese company _DeepSeek_ is took it one step further and their family of models is not limited to only one architecture which is `deepseek-v2` and then they make a group of `deepseek-r1` models from 0.5 to 671 billion parameters.
