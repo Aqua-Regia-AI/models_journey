@@ -23,3 +23,13 @@ And by now you probably are generating a dozen images or logos before choosing o
 So this was failed. But there was another thing happening at the same time!
 
 ## Stable Diffusion
+
+Stable Diffusion was basically the first model advertised as _The Open Source Midjourney Killer_ and honestly in August and June of 2022, it was really a better option compared to midjourney for generating images. But Stable Diffusion alone wasn't the magic. 
+
+A short time passed and people started tuning the model on different datasets. So you could have different Stable Diffusion models for different purposes (my most favorite one back then was _analog diffusion_) and then __DreamBooth__ came. DreamBooth was really a game changer. It made tuning on a free tier colab really easy and I can't describe how happy I was with that project. I tried too many times to make different styles. 
+
+But there was one more thing! Stable Diffusion introduced _model merging_ as well. You could download multiple checkpoints and merge them in order to get a bigger and better model. So I decided to have my own trained checkpoints merged. Then I started looking for other checkpoints as well and merge them into my big model. My intention was to make the model as perfect as possible and keep in mind, LoRA's were not a thing yet. 
+
+I just did this. And I had a name for my project. I called it _Open Journey_. 
+
+## The Open Journey Event
