@@ -25,3 +25,5 @@ Honestly most of the AI companies give up very good technical information (even 
 The point here is not to scare you about starting an AI business. The point is to help you build your business with eyes wide open and a good understanding of the surroundings. 
 
 ## Who's the audience of this document?
+
+This book is not only for developers. But for everyone who wants to know what is happening behind the scenes of an AI business. Everyone who wants to know why non-profit and open organizations matter. Everyone who wants to change the world!
