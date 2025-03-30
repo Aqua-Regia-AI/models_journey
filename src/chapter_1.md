@@ -6,7 +6,7 @@ We hope you gather useful information and insights after studying our journey to
 
 ## About the project's founder
 
-I am [Muhammadreza Haghiri](https://haghiri75.com/en). The founder and current CEO of Mann-E, which is a generative AI platform based on fine-tuned models we're building. I was born May 30th 1996 in Tehran, Iran and started coding at the age of 12. 
+I am [Muhammadreza Haghiri](https://haghiri75.com/en) (Also available on [X (Formerly Twitter)](https://x.com/haghiri_ai)). The founder and current CEO of Mann-E, which is a generative AI platform based on fine-tuned models we're building. I was born May 30th 1996 in Tehran, Iran and started coding at the age of 12. 
 
 In years of experiencing coding and developing software, I have been in different exciting areas of the whole business of software development. At first, I just started turning everything I learned in math and physics into Windows applications using VB6 (and later Visual Basic .NET). When I got a little more familiar with the software market, I started learning C# as well. But when I was 15, everything has changed. I just discovered a whole new world and it was _The Fascinating World of Free Software_. 
 
