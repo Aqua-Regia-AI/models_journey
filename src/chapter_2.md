@@ -33,3 +33,11 @@ But there was one more thing! Stable Diffusion introduced _model merging_ as wel
 I just did this. And I had a name for my project. I called it _Open Journey_. 
 
 ## The Open Journey Event
+
+One day (I don't know it was December 2022 or January 2023) I woke up and saw my personal blog and LinkedIn are exploded. Lots of views, comments and messages. I found out someone posted my Open Journey ([Link](https://news.ycombinator.com/item?id=34522311)) to Hacker News (and probably it was mistaken with what PromptHero made). When I realized this happened, I told myself this is the time it must be a service. But I still had a problem which was the name!
+
+Open Journey was cool but taken by PromptHero. What should I do then? I remembered that when we wanted to be _an AI driven print on demand service_ we just had _Mani_ in mind which is the name of a Persian spiritual leader who happened to be a painter as well. 
+
+Since Dall-E was a thing and it was a combination of Dali and Wall-E, I took a page from OpenAI's book and called my model _Mann-E_. 
+
+## Early adapters
