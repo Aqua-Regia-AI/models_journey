@@ -17,3 +17,11 @@ In 2023, I founded Mann-E (which will have its own chapter) and it was and is th
 All the above stories will be covered in the following chapters, so you can patiently study my amazing journey to be an entrepreneur and the reasons why _Aqua Regia_ is a non profit organization. 
 
 ## Why this is not a technical document?
+
+This document is only about the journey. There are quite a few parts where you can find technical documentations or technical language, but most the content will be just a story of a journey and why those decisions were made. 
+
+Honestly most of the AI companies give up very good technical information (even closed source ones) but no one talks about the behind the scenes. If we want to frame a good picture of the current AI scene, there are some windmills you think are dangerous giants but they're just hyped up local competition. The actuall giants are under the ground. After you pass the windmills, you will find a big lake full of black swans and the lake is surrounded by landmines. 
+
+The point here is not to scare you about starting an AI business. The point is to help you build your business with eyes wide open and a good understanding of the surroundings. 
+
+## Who's the audience of this document?
