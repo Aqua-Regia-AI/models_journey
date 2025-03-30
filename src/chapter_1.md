@@ -14,4 +14,6 @@ I just remember the day I installed Linux. This change, made me have more ambiti
 
 In 2023, I founded Mann-E (which will have its own chapter) and it was and is the most successful business I've ever owned. But later in 2024, I noticed something which was not good at all. Most of _Local Language Models_ couldn't understand my language which is _Persian_. Therefore it made new sparks in my head. 
 
+All the above stories will be covered in the following chapters, so you can patiently study my amazing journey to be an entrepreneur and the reasons why _Aqua Regia_ is a non profit organization. 
+
 ## Why this is not a technical document?
