@@ -13,3 +13,9 @@ Ferdowsi is the person known for saving Persian language although this is not a 
 Years passed and we introduced to the internet. Internet content creation was really a thing and it also helped a lot. People wrote blogs, made channels on YouTube, made forums and group chats and this was a new phase. But the most important phase of saving a language is still remained. This is _Artificial Intelligence_. 
 
 ## Why AI matters?
+
+Nowadays the most linguistic entity we have in our lives is AI. We can't deny this fact. AI helps us write code, write essays, even write our applications for a job or educational position. This is all besides how AI almost replaced classic meaning of a search engine for us. The problem is although most of the models are good at speaking English, they usually are not good at other languages specially languages like Persian or Arabic. 
+
+So one way of keeping our languages alive is to add them to AI. Building an AI which understands the language you speak can help keeping that language alive. And now you may ask _ChatGPT is fluent in Persian as well, so why did you make a new one?_ which I'm going to explain. 
+
+## Birth of Maral
