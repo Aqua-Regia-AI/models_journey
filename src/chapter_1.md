@@ -1,5 +1,1 @@
 # Introduction
-
-In this era of _Large Language Models_ or _LLMs_ having just one simple model may be a good thing, but it is not everything. The reason behind this is that most of proprietary and open source companies are now releasing _families of models_ instead of one single model. And the Chinese company _DeepSeek_ is took it one step further and their family of models is not limited to only one architecture which is `deepseek-v2` and then they make a group of `deepseek-r1` models from 0.5 to 671 billion parameters.
-
-This is why this document is being written. We at _Aqua Regia AI_ have a mission to bring democratized AI for on-server and on-device uses to the hands of people who need that. The best approach for us was to have a family of models from a very small model up to a very large one and we needed to document our journey to make it clear why we chose these particular models. 
