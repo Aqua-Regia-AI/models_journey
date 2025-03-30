@@ -27,3 +27,5 @@ Mistral wasn't bad at understanding Persian sentences but since it didn't have a
 Although it had made some serious factual mistakes (like calling Elon Musk an actor from 60's) but wasn't a grammatical mess like the other models. When I found this works like this, I published it on [HuggingFace](https://hf.co/MaralGPT) without any hesitation. I also posted on twitter and different social media about the model and it grabbed a lot of attention from people, enthusiasts and even local companies who were trying to make a Persian language model.
 
 ## Restoring an old project...
+
+A while after this LLaMA 3 released which had a good understanding and generation of Persian language. This was the time to give it a shot. So I gathered a team of enthusiasts to work on a completely new project which becomes somehow the founding steps of _Aqua Regia_. In the next chapter, we're going in details of that project which was also the restoration of an old project of mine. 
