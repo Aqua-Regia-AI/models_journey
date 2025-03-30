@@ -47,3 +47,5 @@ When I started coding the platform, I decided to gather a list of emails of the 
 When I reached the 200 point, I told people I won't accept any new early adapters and you will be able to sign up on platform when we launch publicly. Then I emailed these people one by one and sent them instructions on how they can access the platform and I made a group on Telegram to gather the feedback from my community. The feedback helped me make the product much much better in a few weeks. 
 
 ## Public Launch 🚀
+
+Finally Mann-E was launched on April 14th 2023 (since April 14th is the birthday of _Mani The Prophet_ as well) and since then we had a lot of progress which is explained on Mann-E's blogs and web pages. 
