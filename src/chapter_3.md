@@ -11,3 +11,5 @@ First when Persian speaking kings or warriors could find a chance to take over t
 Ferdowsi is the person known for saving Persian language although this is not a hundred percent true. He tried and he was successful but people after him continued this movement. For centuries, poetry was a way of keeping this beautiful language alive but when Qajar dynasty took over Iran, the space changed a lot. Our people were introduced to newspapers and magazines and novels (mostly because of the connections of Qajars with France and UK.) and this was the new way of saving the language. 
 
 Years passed and we introduced to the internet. Internet content creation was really a thing and it also helped a lot. People wrote blogs, made channels on YouTube, made forums and group chats and this was a new phase. But the most important phase of saving a language is still remained. This is _Artificial Intelligence_. 
+
+## Why AI matters?
